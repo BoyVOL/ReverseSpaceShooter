@@ -8,7 +8,7 @@ namespace CustomAnimations{
         /// <summary>
         /// Тело, состоящее из нескольких плывущих по воздуху объектов
         /// </summary>
-        public class SwarmController: Node2D{
+        public class SwarmControllerParent: Node2D{
 
             
         /// <summary>
@@ -145,7 +145,7 @@ namespace CustomAnimations{
     }
 
 }
-public class SwarmControllerNode : SwarmController
+public class SwarmController : SwarmControllerParent
 {
     
 

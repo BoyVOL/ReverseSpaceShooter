@@ -62,7 +62,7 @@ namespace CustomAnimations
     }
 }
 
-public class SecondOrderNode : RelativeCoords
+public class SecondOrder : RelativeCoords
 {
 
     /// <summary>

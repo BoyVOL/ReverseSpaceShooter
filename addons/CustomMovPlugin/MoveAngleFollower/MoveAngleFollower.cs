@@ -8,7 +8,7 @@ namespace CustomAnimations{
         /// <summary>
         /// Тело, состоящее из нескольких плывущих по воздуху объектов
         /// </summary>
-        public class MoveAngleFollower: CoordSaver{
+        public class MoveAngleFollowerParent: CoordSaver{
                 public float GetSpeedAngle(){
                         return OldPosition.DirectionTo(GetRelPosition(RefNode)).Angle();
                 }
@@ -21,6 +21,6 @@ namespace CustomAnimations{
             
 }
 
-public class MoveAngleFollowerNode: MoveAngleFollower{
+public class MoveAngleFollower: MoveAngleFollowerParent{
         
 }
