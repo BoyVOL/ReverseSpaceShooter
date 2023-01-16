@@ -1,0 +1,9 @@
+C:\Users\limonovvo\Documents\GitHub\ReverseSpaceShooter\.mono\temp\bin\Debug\ReverseSpaceShooter.dll
+C:\Users\limonovvo\Documents\GitHub\ReverseSpaceShooter\.mono\temp\bin\Debug\ReverseSpaceShooter.pdb
+C:\Users\limonovvo\Documents\GitHub\ReverseSpaceShooter\.mono\temp\obj\Debug\ReverseSpaceShooter.csproj.AssemblyReference.cache
+C:\Users\limonovvo\Documents\GitHub\ReverseSpaceShooter\.mono\temp\obj\Debug\ReverseSpaceShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limonovvo\Documents\GitHub\ReverseSpaceShooter\.mono\temp\obj\Debug\ReverseSpaceShooter.AssemblyInfoInputs.cache
+C:\Users\limonovvo\Documents\GitHub\ReverseSpaceShooter\.mono\temp\obj\Debug\ReverseSpaceShooter.AssemblyInfo.cs
+C:\Users\limonovvo\Documents\GitHub\ReverseSpaceShooter\.mono\temp\obj\Debug\ReverseSpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\limonovvo\Documents\GitHub\ReverseSpaceShooter\.mono\temp\obj\Debug\ReverseSpaceShooter.dll
+C:\Users\limonovvo\Documents\GitHub\ReverseSpaceShooter\.mono\temp\obj\Debug\ReverseSpaceShooter.pdb
