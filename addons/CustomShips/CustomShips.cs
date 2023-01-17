@@ -19,7 +19,7 @@ public class CustomShips : EditorPlugin
         base._EnterTree();
         GD.Print("Plugin ready");
         AddCustomType("CustomShip","RigidBody2D");
-        AddCustomType("PropulsionControl","Node");
+        AddCustomType("PropulsionControl","Node2D");
     }
 
     public override void _ExitTree()
